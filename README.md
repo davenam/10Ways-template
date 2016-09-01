@@ -1,4 +1,4 @@
-# Zaawansowany HTML i CSS - egzamin
+# Zaawansowany HTML i CSS
 
 1. Stwórz stronę na podstawie poniższych wytycznych:
 
@@ -26,3 +26,6 @@
 
 ##Potrzebujesz pomocy?
 * [FontSquirel - Open Sans](http://www.fontsquirrel.com/fonts/open-sans)
+* 
+#Licence
+CodersLab
