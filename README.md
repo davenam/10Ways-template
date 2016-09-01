@@ -26,6 +26,7 @@
 
 ##Potrzebujesz pomocy?
 * [FontSquirel - Open Sans](http://www.fontsquirrel.com/fonts/open-sans)
-* 
-#Licence
+
+
+##Licence
 CodersLab
