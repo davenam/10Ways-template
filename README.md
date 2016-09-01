@@ -4,11 +4,6 @@
 
 ![layout](10ways.jpg)
 
-**Wytyczne dotyczące repozytorium**
-* Sklonuj to repozytorium na dysk. 
-* Zmiany wprowadzaj w pliku index.html oraz style.css
-* Po skończeniu pracy, wykonaj commit oraz push.
-
 
 **Wytyczne dotyczące projektu** 
 * Czcionka użyta w projekcie to Open Sans
